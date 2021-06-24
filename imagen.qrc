@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>circuit.png</file>
+        <file>concaveMirror1.png</file>
+        <file>convexLens.png</file>
+        <file>convexMirror.png</file>
+        <file>magnet.png</file>
+        <file>pnDiode.png</file>
+        <file>prism.png</file>
+        <file>pulley.png</file>
+        <file>solenoid.png</file>
+        <file>torroid.png</file>
+        <file>concaveLens.png</file>
+        <file>kepe.png</file>
+        <file>npn.png</file>
+        <file>pnp.png</file>
+    </qresource>
+</RCC>

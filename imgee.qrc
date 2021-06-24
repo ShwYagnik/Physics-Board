@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>clear.png</file>
+        <file>cross1.png</file>
+    </qresource>
+</RCC>

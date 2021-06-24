@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>divide.png</file>
+        <file>minus.png</file>
+        <file>multiply.png</file>
+        <file>plus.png</file>
+    </qresource>
+</RCC>

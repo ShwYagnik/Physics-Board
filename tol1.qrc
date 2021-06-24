@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>degroup.png</file>
+        <file>group.png</file>
+    </qresource>
+</RCC>

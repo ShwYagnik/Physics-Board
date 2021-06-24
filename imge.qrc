@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>mutual.png</file>
+        <file>self.png</file>
+    </qresource>
+</RCC>
